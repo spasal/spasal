@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Alex** and you should know, I love Azure and solving problems using Azure. It's a good day for me when I get to launch the Visual Studio Code and the Azure portal and see the cloud doing its magic :smile:. I've been doing software development for almost 5 years now and I :heart: what I do.
+My name is **Alex** and you should know, I love Azure and solving problems using DevOps. It's a good day for me when I get to launch Visual Studio Code, the Azure portal, Azure DevOps and see the cloud doing its magic :smile:. I've been doing software development for almost 5 years now and I :heart: what I do.
 
 I am a **Azure and Integration Consultant** currently working at [Codit](https://www.codit.eu/en/). I am a graduate of the [Howest](https://www.howest.be/nl) with my Bachelors, New Media and Communications Technology. I am a lifelong student and every day is an opportunity to learning something new. I am a consultant and I work hard to help others to improve their lives, the lives of others, and make an impact in the world enabling them to do what they do best by helping them get there through the use of software and technology :dart:.
 
