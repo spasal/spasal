@@ -38,6 +38,7 @@ I am a **Azure and Integration Consultant** currently working at [Codit](https:/
 
 ### :books: I’m currently learning:
 
+* CompTIA Network+: [CompTIA Network+](https://www.comptia.org/certifications/network)
 * Microsoft Learn: [docs.microsoft.com/alexspassovsimeonov](https://docs.microsoft.com/en-us/users/alexspassovsimeonov/)
 * Pluralsight: [pluralsight.com/alex-spassovsimeonov](https://app.pluralsight.com/profile/alex-spassovsimeonov)
 
